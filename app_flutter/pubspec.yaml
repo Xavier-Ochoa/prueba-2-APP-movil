@@ -1,0 +1,59 @@
+name: mediaexplorer_app
+description: App para explorar y gestionar colecciones multimedia con MongoDB Atlas.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # HTTP
+  http: ^1.2.0
+  
+  # Estado
+  provider: ^6.1.1
+  
+  # Utilidades
+  uuid: ^4.3.3
+  
+  # UI
+  cupertino_icons: ^1.0.6
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+
+  # Persistencia local
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+  # Icono de la app
+  flutter_launcher_icons: ^0.13.1
+
+  # Splash screen
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/
+    - assets/splash/
+
+# Configuración del icono
+flutter_icons:
+  android: true
+  ios: false
+  image_path: assets/icon/app_icon.png
+
+# Configuración del splash screen
+flutter_native_splash:
+  color: "#121212"
+  image: assets/splash/splash.png
+  android: true
+  ios: false
