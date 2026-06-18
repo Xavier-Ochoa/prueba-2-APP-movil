@@ -302,6 +302,39 @@ Al guardar un deal de CheapShark en la colección local, fue necesario: transfor
 
 ---
 
+## Funcionalidades extras
+
+### 🔄 Pull to refresh
+Cuando estás viendo tu colección de items o explorando las ofertas de la API, puedes deslizar la lista hacia abajo para refrescarla.  
+Esto borra lo que estaba cargado y trae los datos desde el inicio, como si entraras de nuevo a la pantalla.
+
+---
+
+### 🎯 Filtro por categoría y plataforma
+En la pantalla de **Mi Colección** hay un botón de filtro en la barra superior que abre un panel desde abajo con dos listas desplegables:
+- **Categoría**
+- **Plataforma**
+
+Estas opciones no son fijas, sino que se generan automáticamente según las categorías y plataformas que existen en ese momento en tu colección guardada.  
+Si agregas un item con una categoría nueva, esta aparecerá como opción de filtro la próxima vez que abras el panel.
+
+Al aplicar un filtro:
+- La lista se actualiza mostrando solo los items que coinciden.
+- En la parte superior aparecen **etiquetas (chips)** con los filtros activos.
+- Cada chip puede eliminarse con un toque para quitar ese filtro.
+
+---
+
+### 🚫 Evitar duplicados
+Cuando guardas una oferta encontrada en el explorador de la API dentro de tu colección, la aplicación verifica primero si ya existe un item con el **mismo título** y la **misma fuente**.
+
+- Si el item **ya existe**, no se vuelve a guardar.
+- Se muestra un **aviso visual** (mensaje naranja en la parte inferior) indicando que el item ya está en tu colección.
+
+Esto ayuda a mantener la colección limpia y sin registros repetidos.
+
+
+
 ## Evidencias y capturas
 
 > 📌 **Sección para completar con tus evidencias**
@@ -322,14 +355,24 @@ Al guardar un deal de CheapShark en la colección local, fue necesario: transfor
 
 > _(insertar enlace a video: YouTube, Drive, etc.)_
 
+### Icono
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/609b13c7-12fa-4911-81aa-c9807ebfd0b9" />
+
+
+### Splash Screen
+
+<img width="768" height="1376" alt="image" src="https://github.com/user-attachments/assets/62c790ef-f79f-42d7-9a68-0b9f8c8c274e" />
+
+
 ### Evidencia MongoDB Atlas
 
-> _(insertar captura de la colección `items_coleccion` en MongoDB Atlas mostrando los documentos guardados)_
+<img width="1326" height="755" alt="image" src="https://github.com/user-attachments/assets/92261b4f-4897-435f-ae22-e824bd172e04" />
+
 
 ### Evidencia Vercel
 
-> _(insertar captura del dashboard de Vercel mostrando el deploy activo)_
-
----
+<img width="1349" height="617" alt="image" src="https://github.com/user-attachments/assets/d259e410-e3d9-4f5b-a349-955a65d2e3fb" />
+https://back-flutter-1.vercel.app/
 
 *Proyecto académico — ESFOT · Uso educativo, sin fines comerciales.*
