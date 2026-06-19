@@ -415,35 +415,48 @@ Al editar un item y subir una nueva imagen desde la galería, la imagen anterior
 
 ### Capturas de pantalla
 
-| Pantalla | Captura |
-|----------|---------|
-| HomePage | <img width="757" height="1600" alt="image" src="https://github.com/user-attachments/assets/50a3abfd-cd9c-4108-89a8-f6bce9fcb87d" />|
-| CollectionPage | _(insertar imagen)_ |
-| FormPage — Crear | _(insertar imagen)_ |
-| FormPage — Editar | _(insertar imagen)_ |
-| DetailPage | _(insertar imagen)_ |
-| ApiExplorerPage | _(insertar imagen)_ |
-| StatsPage | _(insertar imagen)_ |
+<table>
+  <tr>
+    <td align="center"><b>HomePage</b><br><img src="https://github.com/user-attachments/assets/50a3abfd-cd9c-4108-89a8-f6bce9fcb87d" width="220" alt="HomePage"></td>
+    <td align="center"><b>CollectionPage</b><br><img src="https://github.com/user-attachments/assets/f06f8588-66dc-4450-8937-2208d975b900" width="220" alt="CollectionPage"></td>
+    <td align="center"><b>FormPage — Crear</b><br><img src="https://github.com/user-attachments/assets/68bae4d5-0622-4c5a-be50-567badd396e2" width="220" alt="FormPage Crear"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>FormPage — Editar</b><br><img src="https://github.com/user-attachments/assets/27d9bf8c-167d-47dd-bef8-1394ace3a65c" width="220" alt="FormPage Editar"></td>
+    <td align="center"><b>DetailPage</b><br><img src="https://github.com/user-attachments/assets/2a09f5ea-a605-4082-a141-dfdd56e47e68" width="220" alt="DetailPage"></td>
+    <td align="center"><b>ApiExplorerPage</b><br><img src="https://github.com/user-attachments/assets/273689af-784e-4a8d-b12f-7ea968a203d5" width="220" alt="ApiExplorerPage"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>StatsPage</b><br><img src="https://github.com/user-attachments/assets/d7ed443d-0c4b-45cf-8e86-c7b8aa82fe76" width="220" alt="StatsPage"></td>
+    <td align="center"><b>AboutPage</b><br><img src="https://github.com/user-attachments/assets/fec84214-20f7-43d8-a58e-b8c40d6a39ca" width="220" alt="AboutPage"></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Video de demostración
 
 > _(insertar enlace a video: YouTube, Drive, etc.)_
 
-### Icono
+### Icono y Splash Screen
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/609b13c7-12fa-4911-81aa-c9807ebfd0b9" />
+<table>
+  <tr>
+    <td align="center"><b>Icono</b><br><img src="https://github.com/user-attachments/assets/609b13c7-12fa-4911-81aa-c9807ebfd0b9" width="120" alt="Icono"></td>
+    <td align="center"><b>Splash Screen</b><br><img src="https://github.com/user-attachments/assets/62c790ef-f79f-42d7-9a68-0b9f8c8c274e" width="180" alt="Splash Screen"></td>
+  </tr>
+</table>
 
-### Splash Screen
+### Evidencias de servicios
 
-<img width="768" height="1376" alt="image" src="https://github.com/user-attachments/assets/62c790ef-f79f-42d7-9a68-0b9f8c8c274e" />
+<p>
+  <b>MongoDB Atlas</b><br>
+  <img src="https://github.com/user-attachments/assets/92261b4f-4897-435f-ae22-e824bd172e04" width="600" alt="Evidencia MongoDB Atlas">
+</p>
 
-### Evidencia MongoDB Atlas
-
-<img width="1326" height="755" alt="image" src="https://github.com/user-attachments/assets/92261b4f-4897-435f-ae22-e824bd172e04" />
-
-### Evidencia Vercel
-
-<img width="1349" height="617" alt="image" src="https://github.com/user-attachments/assets/d259e410-e3d9-4f5b-a349-955a65d2e3fb"  width="50%" alt="image" />
+<p>
+  <b>Vercel</b><br>
+  <img src="https://github.com/user-attachments/assets/d259e410-e3d9-4f5b-a349-955a65d2e3fb" width="600" alt="Evidencia Vercel">
+</p>
 
 https://back-flutter-1.vercel.app/
 
