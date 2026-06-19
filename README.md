@@ -1,4 +1,4 @@
-# 🎮 MediaExplorer App
+#  MediaExplorer App
 
 **Aplicación móvil Flutter para explorar y gestionar una colección multimedia personal, con backend Node.js en Vercel, base de datos MongoDB Atlas y almacenamiento de imágenes en Cloudinary.**
 
