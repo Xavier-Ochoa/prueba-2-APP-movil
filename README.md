@@ -411,7 +411,7 @@ Al editar un item y subir una nueva imagen desde la galería, la imagen anterior
 
 ## Evidencias y capturas
 
-> 📌 **Sección para completar con tus evidencias**
+
 
 ### Capturas de pantalla
 
@@ -435,7 +435,7 @@ Al editar un item y subir una nueva imagen desde la galería, la imagen anterior
 
 ### Video de demostración
 
-> _(insertar enlace a video: YouTube, Drive, etc.)_
+> https://youtu.be/jz5D9Zsl8ZE
 
 ### Icono y Splash Screen
 
