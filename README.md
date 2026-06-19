@@ -417,7 +417,7 @@ Al editar un item y subir una nueva imagen desde la galería, la imagen anterior
 
 | Pantalla | Captura |
 |----------|---------|
-| HomePage | _(insertar imagen)_ |
+| HomePage | <img width="757" height="1600" alt="image" src="https://github.com/user-attachments/assets/50a3abfd-cd9c-4108-89a8-f6bce9fcb87d" />|
 | CollectionPage | _(insertar imagen)_ |
 | FormPage — Crear | _(insertar imagen)_ |
 | FormPage — Editar | _(insertar imagen)_ |
