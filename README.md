@@ -433,9 +433,9 @@ Al editar un item y subir una nueva imagen desde la galería, la imagen anterior
   </tr>
 </table>
 
-### Video de demostración
+### 🎬 Video de demostración
 
-> https://youtu.be/jz5D9Zsl8ZE
+[![Ver video en YouTube](https://img.shields.io/badge/▶_Ver_demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/jz5D9Zsl8ZE)
 
 ### Icono y Splash Screen
 
