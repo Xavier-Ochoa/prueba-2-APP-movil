@@ -443,7 +443,7 @@ Al editar un item y subir una nueva imagen desde la galería, la imagen anterior
 
 ### Evidencia Vercel
 
-<img width="1349" height="617" alt="image" src="https://github.com/user-attachments/assets/d259e410-e3d9-4f5b-a349-955a65d2e3fb" />
+<img width="1349" height="617" alt="image" src="https://github.com/user-attachments/assets/d259e410-e3d9-4f5b-a349-955a65d2e3fb"  width="50%" alt="image" />
 
 https://back-flutter-1.vercel.app/
 
